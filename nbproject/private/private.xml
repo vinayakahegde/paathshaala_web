@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>public/js/basic.js</url>
+            <bookmark id="1">
+                <name/>
+                <line>259</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/config/routes.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/public/css/basic.css</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/models/schoolmodel.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/models/parentmodel.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/public/js/messages.js</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/views/students.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/config/constants.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/controllers/teacherController.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/controllers/parentController.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/views/inbox.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/controllers/generalController.php</file>
+            <file>file:/Users/vinayakahegde/sites/paathshaala_web/application/controllers/schoolController.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,15 @@
+Menu bar color : #222222
+Menu bar text color : #9d9d9d;
+Body Background color : #104356; 
+Buttons custom : #222222
+Alert color : #FDFD88
+Login button : #5CB85C;
+Primary button color : #337ab7;
+information heading : #79A2AF;
+information border : #BAD3DA;
+box-shadow : #888888;
+calendar-events holiday-light : #F99999;
+calendar-events event-light : #CBE7F1;
+Facilities : lighter than  light green : #B8FBB8;
+             ligter than yellow : #FFFFA9;
+default panel color : #f5f5f5;
